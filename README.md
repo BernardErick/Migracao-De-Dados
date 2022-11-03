@@ -4,7 +4,7 @@
 
 - `Uma estrutura de lote leve e abrangente projetada para permitir o desenvolvimento de aplicativos de lote robustos vitais para as operações diárias dos sistemas corporativos.`
 
-### Propósito do projeto
+### Propósito do projeto:
 
 - `Criar um sistema que lê um lote grande de informações em um arquivo csv e migra esses dados para uma base de dados mySql.`
 
